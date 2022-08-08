@@ -5,7 +5,8 @@ This script works in US / NAM Secure Endpoint Cloud.
 
 How to run:
 
-"""python3 secureendpoint_list_exclusion.py
+```
+python3 secureendpoint_list_exclusion.py
 SecureX Token was received
 Secure Endpoint Token was received
 Number of Orgs: 1
@@ -18,4 +19,4 @@ Number of Exclusion Sets: 7
 - 4 Name of Exclusion Sets: TEST , Operating System: windows
 - 5 Name of Exclusion Sets: Exclusions For 'Copy of Initial FireAMP Mac Policy, Mac' , Operating System: mac
 - 6 Name of Exclusion Sets: Workstation Exclusions For FireAMP Linux , Operating System: linux
-"""
+```
