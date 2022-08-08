@@ -3,13 +3,12 @@
 This script will list exclusions of a Secure Endpoint Org.  
 This script works in US / NAM Secure Endpoint Cloud.  
 
-Please update 'Client_ID' and 'Client_Pass' values according to this doc in the script before running it:
+Please update 'Client_ID' and 'Client_Pass' values according to this doc in the script before execuring it:
 https://developer.cisco.com/docs/secure-endpoint/#!authentication
 
 
 
 How to run:
-
 ```
 python3 secureendpoint_list_exclusion.py
 SecureX Token was received
